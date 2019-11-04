@@ -6,7 +6,7 @@ namespace Kinda_cool
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tjena");
+            Console.WriteLine("Cool");
         }
     }
 }
